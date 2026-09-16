@@ -2,7 +2,7 @@ name: Deploy Hydejack to Pages
 
 on:
   push:
-    branches: [master]   # 默认分支是 main 就改 main
+    branches: [main]   # 默认分支是 main 就改 main
   workflow_dispatch:
 
 permissions:
