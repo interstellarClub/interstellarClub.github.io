@@ -28,7 +28,7 @@ description:           >
   Interstellar Club 是 由几名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想…… We're heading to the interstellar together.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:                 We're heading to the interstellar together......
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Feelings
+    url:               /Feelings/
+  - title:             Poems
+    url:               /Poems/
   - title:             About
     url:               /about/
 
@@ -127,8 +127,8 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(32,32,32)
+      accent_color:    rgb(47,68,104)
+      theme_color:     rgb(67,97,149)
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
