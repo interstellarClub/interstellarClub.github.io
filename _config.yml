@@ -20,13 +20,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Interstellar Club
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Interstellar Club 是 由几名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想…… We're heading to the interstellar together.
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
@@ -42,8 +41,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Rui> <Zheng>
+  email:               <lighthousezr@icloud.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -67,7 +66,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2026. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
