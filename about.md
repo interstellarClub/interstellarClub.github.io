@@ -1,9 +1,8 @@
-\---  
+---  
 layout: about  
-description: >  
-A brief introduction for the website as well as the Author  
+description: A brief introduction for the website as well as the Author  
 hide_description: true  
-\---
+---
 
 # About
 
