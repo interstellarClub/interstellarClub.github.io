@@ -1,11 +1,11 @@
----
-layout: about
-description: >
-  A brief introduction for the website as well as the Author
-hide_description: true
-redirect_from:
-  - /
----
+\---  
+layout: about  
+description: >  
+A brief introduction for the website as well as the Author  
+hide_description: true  
+redirect_from:  
+\- /404.html  
+\---
 
 # About
 
@@ -21,7 +21,7 @@ redirect_from:
 
 创建一个这样的网站是本人一直以来的想法，现在终于抽出时间可以安心运营之。
 
-联系方式：lighthousezr@icloud.com
+联系方式：<lighthousezr@icloud.com>
 
 感谢互联网让每一只独立的灵魂被看见，让每一句不同的声音得到回响
 
@@ -29,13 +29,13 @@ redirect_from:
 
 ## Interstellar Club
 
-Interstellar Club 是 由几名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想…… 
+Interstellar Club 是 由几名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想……
 
 目前来看，持续的创作者可能包括我的两位舍友 @zhy @ycy
 
 但很快，我将把我从前的挚友们邀请到这个空间，比方说 @wxw @zax
 
-这些挚友们如今早已天各一方，北至尔滨，南抵广州，西抵巴蜀，东到津沽
+这些挚友们如今早已天各一方，北至尔滨，南及广州，西抵巴蜀，东到津沽
 
 但我相信 真情可越千山万水，热爱可抵岁月漫长
 
