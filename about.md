@@ -3,8 +3,6 @@ layout: about
 description: >  
 A brief introduction for the website as well as the Author  
 hide_description: true  
-redirect_from:  
-\- /404.html  
 \---
 
 # About
