@@ -25,7 +25,7 @@ title:                 Interstellar Club
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Interstellar Club 是 由几名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想…… We're heading to the interstellar together.
+  Interstellar Club 是 由一名热爱生活的大学生创建的线上空间，包含学习，生活，艺术，阅读，科技等许多领域的内容。我们致力于收集并传播一切美好的事物：知识，审美，情感，思想…… We're heading to the interstellar together.
 
 # A shorter description for the sidebar.
 tagline:                 We're heading to the interstellar together......
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Feelings
-    url:               /Feelings/
-  - title:             Poems
-    url:               /Poems/
+#  - title:             Feelings
+#    url:               /Feelings/
+#  - title:             Poems
+#    url:               /Poems/
   - title:             About
     url:               /about/
 
